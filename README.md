@@ -1,2 +1,5 @@
-# peso
-Plaza de física 3D. No sustituye a la web de andelmanager.es.
+# Peso
+
+Plaza de física en https://peso.andelmanager.es
+
+No cambia vocabulario.andelmanager.es ni www.andelmanager.es.
